@@ -1,28 +1,26 @@
 # Ultimate Progression Guide for Beginners - Element Fission
 
-This is a **streamlined progression guide**, not a detailed tutorial. It cuts through the noise and shows you the fastest path forward. For deep mechanics, team compositions, and detailed strategies, check out FissionHub's full guides.
+This is a **streamlined progression guide**, not a detailed tutorial. It cuts through the noise and shows you the fastest path forward. For deep mechanics, team compositions, and detailed strategies, check out [callmepsywolf's Progression Guide](https://fissionhub.callmepsywolf.com/guides/beginner/progression-guide).
 
 ---
 
-## 🎯 TL;DR - The Fast Track
+## TL;DR - The Fast Path
 
-**Farm Boxing Club 10 (BC10)** → **Clear an Abyss** → **Farm Juggernaut** → **Loop Upgrades between BC and Juggernaut teams**
+**Farm Boxing Club 10 (BC10)** → **Clear an Abyss** → **Farm Juggernaut** → **Loop Upgrades between BC and Juggernaut**
 
-When you hit a wall, go one step back and farm what you were farming previously. Even though this is written as a "fast path", it requires time, effort, and patience to progress steadily.
+Don't get me wrong. Farming Juggernaut consistently still takes time, effort, and patience. When you hit a wall, go one step back and farm what you were farming previously.
 
 ---
 
 ## Why Juggernaut? 
 
-Juggernaut (aka Mental Fortress) drops **amplifiers**—which gives you a power spike. Farming Juggernaut is your #1 priority.
+Juggernaut (aka Mental Fortress) drops **amplifiers** — which gives you a huge power spike. To justify this goal I have attached two examples below:
 
 ---
 
 ## Phase 1: Story Farmer
 
-Build a story farmer to generate **EXP Capsules** and **Wisps** for leveling your team. **Water Gyrolean** is the best choice—it has strong AoE skills and scales infinitely.
-
-Farm **Armory 1F (Insane)** or **Memorial Valley 1F (Insane)** on repeat. This is your leveling fuel factory.
+Build a story farmer & farm **exp capsules** and **wisps** for leveling your team. **Water Gyrolean** is a good farmer — it is 3* so easily obtainable & skillable, and has AoE skills.
 
 ---
 
@@ -40,26 +38,22 @@ Once you're comfortable with BC10, farm **Boxing Club Heroic** for better gears.
 
 Once you can farm BC10, work on **clearing an Abyss dungeon** to unlock Juggernaut. Pick whichever abyss element you have the strongest team for.
 
-Abyss also drops converters, restoration, and transformation crystals—but we're not focusing on those for now.
+Abyss also drops converters, restoration, and transformation crystals. They are also good, but early on amplifiers are better.
 
 ---
 
 ## Phase 4: Farm Juggernaut
 
-Once an Abyss is cleared, build towards **Juggernaut**. Start on normal, then progress to hard and insane as your gear improves.
-
-Juggernaut drops **amplifiers** that make your entire team stronger.
+Once Juggernaut is unlocked, build a team for it and start farming it. Start on normal, then progress towards hard and insane as your gear improves.
 
 ---
 
 ## Phase 5: The Progression Loop
 
-Once you can farm Juggernaut consistently, your gameplay becomes this loop:
-
 ```
-[Farm BC10] ──→ Get Better Gear ──→ [Upgrade Juggernaut Team]
+[Farm BC] ──→ Get Better Gear ──→ [Upgrade Juggernaut Team]
     ↑                                    ↓
-    ←─ [Get Amplifiers] ←─ [Farm Juggernaut]
+[Upgrade BC Team]    ←─ [Get Amplifiers] ←─ [Farm Juggernaut]
 ```
 
 ---
@@ -71,33 +65,17 @@ Once you can farm Juggernaut consistently, your gameplay becomes this loop:
 While these dungeons are important, they are intentionally skipped in this guide. I believe **gears and amplifiers should be your early focus**. 
 
 Once you have a solid inventory of **gears and amplifiers**, you can work on other priorities:
-- **Abyss farming** → for conversion, restore, and transform crystals
-- **Elemental Dungeon farming** → for specialty materials and awakenings
+- **Abyss farming** → for conversion, restore, and transform crystals.
+- **Elemental Dungeon farming** → for specialization materials
 
-These are secondary objectives that come *after* you establish your core farming loop. Don't spread yourself too thin early on—focus on the amplifier grind first.
-
----
-
-## Quick Tips
-
-✅ **Build a story farmer early** (Water Gyrolean is best)  
-✅ **Join a guild immediately** (required for missions & rewards)  
-✅ **Don't waste free Elemons** (use the ones you get—they're good)  
-✅ **Never let Arena Coins cap out** (farm consistently for honor)  
-✅ **Watch ahead on missions** (some can gatekeep progression)  
-✅ **Use gear converters** (reroll substats for massive power boosts)  
-✅ **Stack buffs in BC10** (the boss mechanic rewards this)  
 
 ---
 
 ## When You Hit a Wall
 
-If you can't progress to the next phase, **go back one step**:
+You'll get stuck at different intervals which is normal. When you get stuck, **go back one step**:
 - Stuck on BC10? Farm BC9 or BC8 for better gear.
 - Stuck on Abyss / Juggernaut? Farm BC10 more.
-- Stuck anywhere? Farm the previous stage and get better gear.
-
-This is normal. Progression is steady, not rushed.
 
 ---
 
