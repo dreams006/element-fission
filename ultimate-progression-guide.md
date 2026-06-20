@@ -1,33 +1,24 @@
 # Ultimate Progression Guide for Beginners - Element Fission
 
-## Welcome!
 This is a **streamlined progression guide**, not a detailed tutorial. It cuts through the noise and shows you the fastest path forward. For deep mechanics, team compositions, and detailed strategies, check out FissionHub's full guides.
 
 ---
 
 ## 🎯 TL;DR - The Fast Track
 
-**Farm Boxing Club 10 (BC10)** → **Clear an Abyss** → **Farm Juggernaut** → **Loop Upgrades between BC10 and Juggernaut teams**
+**Farm Boxing Club 10 (BC10)** → **Clear an Abyss** → **Farm Juggernaut** → **Loop Upgrades between BC and Juggernaut teams**
 
-When you hit a wall, go one step back and farm what you were farming previously. Consistency beats rushing—better gear from the previous stage will carry you forward.
+When you hit a wall, go one step back and farm what you were farming previously. Even though this is written as a "fast path", it requires time, effort, and patience to progress steadily.
 
 ---
 
 ## Why Juggernaut? 
 
-**The Amplifier Game-Changer**
-
-Juggernaut (aka Mental Fortress) drops **amplifiers**—that gives you a power spike in Element Fission. Without them, your team's stats cap out. With them, everything scales massively:
-
-- **Speed:** +20 per unit
-- **Attack:** +200 per unit  
-- **HP/DEF:** Similar scaling
-
-This difference between baseline gear and amplified gear is **massive**. Farming Juggernaut is your #1 priority. **Water Juggernaut is recommended as your first target** due to easier early-game elemons and accessibility.
+Juggernaut (aka Mental Fortress) drops **amplifiers**—which gives you a power spike. Farming Juggernaut is your #1 priority.
 
 ---
 
-## Phase 1: Start Your Story Farmer
+## Phase 1: Story Farmer
 
 Build a story farmer to generate **EXP Capsules** and **Wisps** for leveling your team. **Water Gyrolean** is the best choice—it has strong AoE skills and scales infinitely.
 
@@ -37,23 +28,19 @@ Farm **Armory 1F (Insane)** or **Memorial Valley 1F (Insane)** on repeat. This i
 
 ## Phase 2: Farm Boxing Club 10 (BC10)
 
-BC10 is your first gear dungeon. Build a consistent team and farm it reliably. You'll get **Swift, Inspire, and Bash gear sets**—the foundation for everything else.
+BC10 is your first gear dungeon. Build a consistent team and farm it reliably. You'll get **Swift, Inspire, Bash, Power, Fatal, and Oceanic** gear sets.
 
 Don't worry about speed or luck. Focus on getting good gear and making your team better.
 
-Once you're comfortable with BC10, you can optionally farm **Boxing Club Heroic** for additional gear optimization—but this is not necessary for progression.
-
-**Timeline:** 2-4 weeks
+Once you're comfortable with BC10, farm **Boxing Club Heroic** for better gears.
 
 ---
 
 ## Phase 3: Clear an Abyss
 
-Once you can farm BC10, work on **clearing an Abyss dungeon** to unlock Juggernaut. You need to clear one abyss to unlock Juggernaut.
+Once you can farm BC10, work on **clearing an Abyss dungeon** to unlock Juggernaut. Pick whichever abyss element you have the strongest team for.
 
-Abyss also drops converters, restoration, and transformation crystals—but we're not focusing on those for now. Pick whichever abyss element you have the strongest team for.
-
-Start on normal difficulty and progress through hard and insane to clear it.
+Abyss also drops converters, restoration, and transformation crystals—but we're not focusing on those for now.
 
 ---
 
@@ -61,9 +48,7 @@ Start on normal difficulty and progress through hard and insane to clear it.
 
 Once an Abyss is cleared, build towards **Juggernaut**. Start on normal, then progress to hard and insane as your gear improves.
 
-Juggernaut drops **amplifiers** that make your entire team exponentially stronger.
-
-**Timeline:** 4-8 weeks
+Juggernaut drops **amplifiers** that make your entire team stronger.
 
 ---
 
@@ -72,12 +57,10 @@ Juggernaut drops **amplifiers** that make your entire team exponentially stronge
 Once you can farm Juggernaut consistently, your gameplay becomes this loop:
 
 ```
-[Farm BC10] ←→ Get Better Gear ←→ [Upgrade Juggernaut Team]
+[Farm BC10] ──→ Get Better Gear ──→ [Upgrade Juggernaut Team]
     ↑                                    ↓
-    ← [Get Amplifiers] ← [Farm Juggernaut] ←
+    ←─ [Get Amplifiers] ←─ [Farm Juggernaut]
 ```
-
-Repeat forever. Upgrade gear → farm Juggernaut → get amplifiers → become stronger.
 
 ---
 
@@ -129,7 +112,7 @@ Once farming Juggernaut becomes routine, you can:
 
 ---
 
-## 📖 Open-Source Guide
+## About This Guide
 
 This is an **open-source guide**! If you have suggestions, corrections, or want to improve this guide, feel free to:
 
@@ -138,6 +121,8 @@ This is an **open-source guide**! If you have suggestions, corrections, or want 
 3. **Contribute** team compositions, tips, or additional sections
 
 Community feedback makes this guide better for everyone. Let's build this together! 🤝
+
+*This guide is prepared by an AI and reviewed by a human.* 😄
 
 ---
 
