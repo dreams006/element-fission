@@ -3,29 +3,27 @@
 ## Welcome!
 This is a **streamlined progression guide**, not a detailed tutorial. It cuts through the noise and shows you the fastest path forward. For deep mechanics, team compositions, and detailed strategies, check out FissionHub's full guides.
 
-This guide gets you farming **Water Juggernaut** as quickly as possible—that's it.
-
 ---
 
 ## 🎯 TL;DR - The Fast Track
 
-**Farm Boxing Club 10 (BC10)** → **Clear Acidic Ooze** → **Farm Juggernaut** → **Loop Upgrades between BC10 and Juggernaut teams**
+**Farm Boxing Club 10 (BC10)** → **Clear an Abyss** → **Farm Juggernaut** → **Loop Upgrades between BC10 and Juggernaut teams**
 
-When you hit a wall, go one step back and farm what you were farming previously.
+When you hit a wall, go one step back and farm what you were farming previously. Consistency beats rushing—better gear from the previous stage will carry you forward.
 
 ---
 
-## Why Water Juggernaut? 
+## Why Juggernaut? 
 
 **The Amplifier Game-Changer**
 
-Water Juggernaut (and Mental Fortress) drops **amplifiers**—the single biggest power spike in Element Fission. Without them, your team's stats cap out. With them, everything scales massively:
+Juggernaut (aka Mental Fortress) drops **amplifiers**—that gives you a power spike in Element Fission. Without them, your team's stats cap out. With them, everything scales massively:
 
 - **Speed:** +20 per unit
 - **Attack:** +200 per unit  
 - **HP/DEF:** Similar scaling
 
-This difference between baseline gear and amplified gear is **massive**. Unlocking Juggernaut farming is your #1 priority.
+This difference between baseline gear and amplified gear is **massive**. Farming Juggernaut is your #1 priority. **Water Juggernaut is recommended as your first target** due to easier early-game elemons and accessibility.
 
 ---
 
@@ -43,33 +41,35 @@ BC10 is your first gear dungeon. Build a consistent team and farm it reliably. Y
 
 Don't worry about speed or luck. Focus on getting good gear and making your team better.
 
+Once you're comfortable with BC10, you can optionally farm **Boxing Club Heroic** for additional gear optimization—but this is not necessary for progression.
+
 **Timeline:** 2-4 weeks
 
 ---
 
-## Phase 3: Clear Acidic Ooze
+## Phase 3: Clear an Abyss
 
-Once you can farm BC10, work on **clearing Acidic Ooze** (the abyss). You need to clear it to progress, and it's also where you get **converters** to reroll gear substats—a massive power boost.
+Once you can farm BC10, work on **clearing an Abyss dungeon** to unlock Juggernaut. You need to clear one abyss to unlock Juggernaut.
 
-Start on normal difficulty and progress through hard and insane.
+Abyss also drops converters, restoration, and transformation crystals—but we're not focusing on those for now. Pick whichever abyss element you have the strongest team for.
 
-**Timeline:** 1-2 weeks
+Start on normal difficulty and progress through hard and insane to clear it.
 
 ---
 
-## Phase 4: Farm Water Juggernaut
+## Phase 4: Farm Juggernaut
 
-Once Acidic Ooze is cleared, build towards **Water Juggernaut**. Start on normal, then progress to hard and insane as your gear improves.
+Once an Abyss is cleared, build towards **Juggernaut**. Start on normal, then progress to hard and insane as your gear improves.
 
-This is the endgame farm. Water Juggernaut drops **amplifiers** that make your entire team exponentially stronger.
+Juggernaut drops **amplifiers** that make your entire team exponentially stronger.
 
 **Timeline:** 4-8 weeks
 
 ---
 
-## Phase 5: The Infinite Loop
+## Phase 5: The Progression Loop
 
-Once you can farm Water Juggernaut consistently, your gameplay becomes this loop:
+Once you can farm Juggernaut consistently, your gameplay becomes this loop:
 
 ```
 [Farm BC10] ←→ Get Better Gear ←→ [Upgrade Juggernaut Team]
@@ -110,8 +110,8 @@ These are secondary objectives that come *after* you establish your core farming
 ## When You Hit a Wall
 
 If you can't progress to the next phase, **go back one step**:
-- Stuck on Acidic Ooze? Farm BC10 more.
-- Stuck on Juggernaut? Farm Acidic Ooze more.
+- Stuck on BC10? Farm BC9 or BC8 for better gear.
+- Stuck on Abyss / Juggernaut? Farm BC10 more.
 - Stuck anywhere? Farm the previous stage and get better gear.
 
 This is normal. Progression is steady, not rushed.
@@ -126,8 +126,6 @@ Once farming Juggernaut becomes routine, you can:
 - Farm Abyss for crystals
 - Farm Elemental Dungeons for materials
 - Optimize your teams further
-
-But your first 8 weeks should be 100% focused on reaching Water Juggernaut farming.
 
 ---
 
